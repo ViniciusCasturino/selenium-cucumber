@@ -1,3 +1,5 @@
+Alunos: João Pavão, Kauê Siuqueira, Vinicius Casturino,  Yasmin Fanfa e Ygor Muhammad
+
 # Selenium Cucumber Docker
 This repo provides a simple way to setup a Ruby/Cucumber/Capybara/Selenium based environment for test automation with Behaviour Driven Development (BDD).
 
